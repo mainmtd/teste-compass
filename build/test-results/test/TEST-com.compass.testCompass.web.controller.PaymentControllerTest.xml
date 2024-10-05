@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.compass.testCompass.web.controller.PaymentControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-05T15:24:25" hostname="DESKTOP-HHVDJ41" time="3.47">
+  <properties/>
+  <testcase name="testProcessPayments()" classname="com.compass.testCompass.web.controller.PaymentControllerTest" time="3.47"/>
+  <system-out><![CDATA[12:24:28.086 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+12:24:28.094 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+12:24:28.104 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 7 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+CREATE TABLE seller (
+    id BIGINT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE billing (
+    id INTEGER PRIMARY KEY,
+    amount DECIMAL(10, 2) NOT NULL
+);
